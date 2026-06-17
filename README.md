@@ -11,7 +11,7 @@ I came up wih this idea when I was thinking about how to expand my audio project
 
 # Cad Screenshots
 
-   <img width="440" height="467" alt="image" src="https://github.com/user-attachments/assets/63dc20ee-ca95-40c3-a6ba-06fb988ac760" />     <img width="440" height="467" alt="image" src="https://github.com/user-attachments/assets/c09b8b6c-695b-4223-8e41-b4b74ac0a3c2" />
+   <img width="440" height="467" alt="image" src="https://github.com/user-attachments/assets/63dc20ee-ca95-40c3-a6ba-06fb988ac760" /><img width="440" height="467" alt="image" src="https://github.com/user-attachments/assets/c09b8b6c-695b-4223-8e41-b4b74ac0a3c2" />
 
 <table>
   <tr>
