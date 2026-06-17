@@ -59,7 +59,9 @@ Cad Notes:
 
   PCB Notes:
    - For the PCB, I did have to go thorugh a few versions. I mostly focused on creating super compact board without hingering the esp32's antenna, which wasn't too bad. However, my first designs were too big too fit in the case, so I had to go back to the drawing board, where I decided to make a round pcb that would sit between the top and bottom halves of the shell.
-   - This pcb includes a tilt sensor, chargin module, switch, esp32, speaker output headers, and more (see bom)
+   - This pcb includes a tilt sensor, charging module, switch, esp32, speaker output headers, and more (see bom)
 
 # Schematic Screenshot
+ 
+ <img width="857" height="600" alt="image" src="https://github.com/user-attachments/assets/c0a5363c-7b42-4c11-8c82-0a12092b6eb6" />
 
