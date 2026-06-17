@@ -11,19 +11,18 @@ I came up wih this idea when I was thinking about how to expand my audio project
 
 # Cad Screenshots
 
-<img width="440" height="467" alt="image" src="https://github.com/user-attachments/assets/63dc20ee-ca95-40c3-a6ba-06fb988ac760" />  <img width="440" height="467" alt="image" src="https://github.com/user-attachments/assets/c09b8b6c-695b-4223-8e41-b4b74ac0a3c2" />
-
+   <img width="440" height="467" alt="image" src="https://github.com/user-attachments/assets/63dc20ee-ca95-40c3-a6ba-06fb988ac760" />     <img width="440" height="467" alt="image" src="https://github.com/user-attachments/assets/c09b8b6c-695b-4223-8e41-b4b74ac0a3c2" />
 
 <table>
   <tr>
     <td>
-    <img src="https://github.com/user-attachments/assets/c4b0c352-6a4f-4c3a-8f44-03dc07fce032" width="300">
+    <img src="https://github.com/user-attachments/assets/c4b0c352-6a4f-4c3a-8f44-03dc07fce032" width="300" height="300">
     </td>
     <td>
-    <img src="https://github.com/user-attachments/assets/60ea2944-5caf-4ff7-953e-0cccb3af8535" width="300">
+    <img src="https://github.com/user-attachments/assets/60ea2944-5caf-4ff7-953e-0cccb3af8535" width="300" height="300">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/eadf4e3f-f29a-490b-a3f9-8014323255b9" width="300">
+      <img src="https://github.com/user-attachments/assets/eadf4e3f-f29a-490b-a3f9-8014323255b9" width="300" height="300">
     </td>
   </tr>
 </table>
