@@ -38,7 +38,7 @@ I came up wih this idea when I was thinking about how to expand my audio project
 </table>
 
 Cad Notes:
-- Okay, so CAD took a WHILE. Creating such an organic shape was difficult, so eneded up relying of the revolve, sweep, and coil tools. Since there arent any tutotials online for creating this type of shell in Fusion either, I had to experiment with blender along with borrowing pieces of 3d models online. Once I had a shape i was happy with, I turned it into a case by splitting it in half, adding holes for magnets, and enclosure for the speaker standoffs for the pcb, and holes for the speaker wires.
+- Okay, so CAD took a WHILE. Creating such an organic shape was difficult, so ended up relying on the revolve, sweep, and coil tools. Since there arent any tutorials online for creating this type of shell in Fusion either, I had to experiment with blender along with borrowing pieces of 3d models online. Once I had a shape i was happy with, I turned it into a case by splitting it in half, adding holes for magnets, and enclosure for the speaker standoffs for the pcb, and holes for the speaker wires.
 - The case itself is pretty easy to use, and I'm happy with how it turned out. If I could go back and change anything, I'd definetly check before hand that my case and pcb were compatible. Orginally, I had planned to tuck my pcb away in the lip/opening of the shell. However, that would be pretty mush impossible without making a HUGE shell case, so I had to basically do a whole redesign of the pcb and case.
 
 # PCB Screenshots
@@ -60,4 +60,6 @@ Cad Notes:
   PCB Notes:
    - For the PCB, I did have to go thorugh a few versions. I mostly focused on creating super compact board without hingering the esp32's antenna, which wasn't too bad. However, my first designs were too big too fit in the case, so I had to go back to the drawing board, where I decided to make a round pcb that would sit between the top and bottom halves of the shell.
    - This pcb includes a tilt sensor, chargin module, switch, esp32, speaker output headers, and more (see bom)
+
+# Schematic Screenshot
 
