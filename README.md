@@ -104,5 +104,14 @@ Cad Notes:
 
 Unlike my previous audio projects, instead of using a micro sd card storing songs played by a df player, I used bluetooth connection via an esp32 and a BluetoothA2DPSink library I found from user pschatzmann. The code is fairly simple, and checks the tilt sensor in the background periodically, intercepting when a tilt is detected to pause/play audio.
 
+## Build Guide
+1. 3D print Case, ensure that standoffs and holes are secure and remove all supports.
+2. Collect all electronic parts and perform breadboard testing before soldering onto custom pcb
+3. Flash fimrware with new pcb, connect to bluetooth so you see "Bluetooth Speaker Audio Ready to Pair!" message printed.
+4. Test out tilt puasing/playing audio
+5. Mount fully charged pcb onto built in standoffs in top of case.
+6. Place speaker in enclosure, thread wires through holes and plug into headers in pcb.
+7. Place magnets in small holes in shell case, snap case shut.
+
 ## Notes and Acknowledgements
 - Thank you to *hackclub* and the *fallout* team for this oppurtunity and for making this project possible!
